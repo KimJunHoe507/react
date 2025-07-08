@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react/tmdb/static/css/main.14447189.css",
+    "main.js": "/react/tmdb/static/js/main.38a20112.js",
+    "index.html": "/react/tmdb/index.html",
+    "main.14447189.css.map": "/react/tmdb/static/css/main.14447189.css.map",
+    "main.38a20112.js.map": "/react/tmdb/static/js/main.38a20112.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.14447189.css",
+    "static/js/main.38a20112.js"
+  ]
+}
